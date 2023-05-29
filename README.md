@@ -7,7 +7,7 @@ Your task is to create a web application that fetches a list of products from th
 - Use React, TypeScript, and Next.js to implement the application.
 - Use the DummyJson API to fetch a list of products.
 - Display the list of products in a user interface. Each product should display the following information: title, description, rating, and product image.
-- Implement infinite scroll so that the list can be scrolled indefinitely. When the user reaches the bottom of the list, the application should fetch the next batch of products and append them to the list.
+- Implement infinite scroll so that the list can be scrolled indefinitely.
 
 ## Bonus
 - Use virtualization to optimize performance. The list should only render the items that are currently visible on the screen. (can implement third party)
